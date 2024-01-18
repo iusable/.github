@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 🙋‍♀️ What's iusable?
-iusable is a project by [Colin Carter](https://colincart.me). It is a collection of all side-projects and legal applications he's developped in his free time. 
+iusable is a project by [Colin Carter](https://colincarter.me). It is a collection of all side-projects and legal applications he's developped in his free time. 
 iusable has focused on AI projects since 2020. 
 
 # ❤️ Open-Source?
